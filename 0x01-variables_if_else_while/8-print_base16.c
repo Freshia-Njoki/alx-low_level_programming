@@ -1,0 +1,21 @@
+#include <stdio.h>
+/**
+ * main -Entry point 
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+	int i;
+	/*code goes here*/
+	for (i = 48; i < 58; i++)
+	{se16.c:
+		iutchar(i);
+	}
+	for (i = 97; i < 103; i++)
+	{
+		putchar(i);
+	}
+	putchar('\n');
+	return (0);
+}
