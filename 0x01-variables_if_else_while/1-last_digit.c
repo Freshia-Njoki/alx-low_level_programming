@@ -10,10 +10,10 @@
 int main(void)
 {
 	int i, j;
-	/*CODE GOES HERE*/
 
 	srand(time(0));
 	i = rand() - RAND_MAX / 2;
+	/*code*/
 	j = i % 10;
 	if (j > 5)
 	{
