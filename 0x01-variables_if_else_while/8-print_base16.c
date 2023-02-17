@@ -9,8 +9,8 @@ int main(void)
 	int i;
 	/*code goes here*/
 	for (i = 48; i < 58; i++)
-	{se16.c:
-		iutchar(i);
+	{
+		putchar(i);
 	}
 	for (i = 97; i < 103; i++)
 	{
