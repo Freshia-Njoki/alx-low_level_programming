@@ -12,6 +12,7 @@ int main(void)
 	j = 48;
 	k = 48;
 	/*code goes here*/
+
 	while (j < 58)
 	{
 		i = 48;
