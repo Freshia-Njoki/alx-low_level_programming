@@ -1,12 +1,13 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * 
+ *
  * Return: Always 0 (Sucess)
  */
 int main(void)
 {
 	int i, e;
+
 	i = 48;
 	e = 48;
 	/*code goes here*/
