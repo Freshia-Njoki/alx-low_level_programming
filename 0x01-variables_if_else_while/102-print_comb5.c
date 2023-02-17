@@ -7,7 +7,6 @@
 int main(void)
 {
 	int i, j, k, l, op1, op2;
-
 	i = j = k = l = 48;
 	/*code goes here*/
 	while (l < 58)
