@@ -8,6 +8,7 @@ int main(void)
 {
 	int i, j, k, l, op1, op2;
 	i = j = k = l = 48;
+
 	/*code goes here*/
 	while (l < 58)
 	{
@@ -29,7 +30,7 @@ int main(void)
 						putchar(' ');
 						putchar(j);
 						putchar(i);
-						if (l == 57 && k == 56 && j ==57 && i == 57)
+						if (l == 57 && k == 56 && j == 57 && i == 57)
 						{
 							break;
 						}
