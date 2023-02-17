@@ -32,6 +32,7 @@ int main(void)
 						if (l == 57 && k == 56 && j ==57 && i == 57)
 						{
 							break;
+						}
 						putchar(',');
 						putchar(' ');
 					}
