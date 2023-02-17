@@ -10,10 +10,11 @@
 int main(void)
 {
 	int i, j;
+	/*CODE GOES HERE*/
+
 	srand(time(0));
 	i = rand() - RAND_MAX / 2;
 	j = i % 10;
-		/* code goes here*/
 	if (j > 5)
 	{
 		printf("Last digit of %d is %d and is greater than 5\n", i, j);
