@@ -11,13 +11,13 @@
 
 void print_times_table(int n)
 {
-	int row, column, product;
+	int row, column;
 
 	if (n >= 0 && n < 15)
 	{
 		for(row = 0; row <= n; column++)
 		{
-			for (column = 0; column <= n; column++;
+			for (column = 0; column <= n; column++)
 			{
 				product = row * column;
 
@@ -49,6 +49,6 @@ void print_times_table(int n)
 					}
 				}
 				_putchar('\n');
-			}
+		}
 	}
 }
