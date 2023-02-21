@@ -5,7 +5,7 @@
  * followed by a new line
  * Return:Always 0 (Success)
  */
-int main(voi)
+int main(void)
 {
 	long int i, j, k, next;
 
@@ -21,7 +21,7 @@ int main(voi)
 		}
 		else
 		{
-			printf("ld\n", j);
+			printf("%ld\n", j);
 		}
 		next = j + k;
 		j = k;
