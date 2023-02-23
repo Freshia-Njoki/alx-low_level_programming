@@ -16,7 +16,7 @@ void print_remaining_days(int month, int day, int year)
 	{
 		if (month > 2 && day >= 60)
 		{
-			day ++;
+			day++;
 		}
 
 		printf("Day of the year: %d\n", day);
@@ -30,7 +30,7 @@ void print_remaining_days(int month, int day, int year)
 		}
 		else
 		{
-			print("Day of the yea: %d\n", day);
+			print("Day of the year: %d\n", day);
 			print("Remaining days: %d\n", 365- day);
 		}
 	}
