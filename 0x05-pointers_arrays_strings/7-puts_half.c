@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * pust_half - prints half of the string
+ * puts_half - prints half of the string
  * @str: input string
  * Retunr: no return
  */
