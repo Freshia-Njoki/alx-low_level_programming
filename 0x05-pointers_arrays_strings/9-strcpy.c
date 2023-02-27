@@ -7,7 +7,7 @@
  * Return: char with copy of string
  */
 
-char *strcpy(char *dest, char *src)
+const char *_strcpy(char *dest, char *src)
 {
 	int i;
 
