@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strcat -conatenates 2 strings
+ * _strcat -conatenates two strings
  * @dest: destination
  * @src: source
  * Return: pointer to  the destination
