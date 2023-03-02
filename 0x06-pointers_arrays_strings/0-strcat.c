@@ -3,11 +3,12 @@
  * _strcat -conatenates two strings
  * @dest: destination
  * @src: source
- * Return: pointer to  the destination
+ * Return: pointer to the destination
  */
-char *_strcat(char *dest, char * src)
+char *_strcat(char *dest, char *src)
 {
 	int count = 0, count2 = 0;
+
 	while(*(dest + count) != '\0')
 	{
 		count++;
