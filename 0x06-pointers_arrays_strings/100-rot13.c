@@ -15,7 +15,7 @@ char *rot13(char *s)
 	{
 		for (i = 0; i < 52; i++)
 		{
-			if (*(s + cunt) == alphabet[i])
+			if (*(s + count) == alphabet[i])
 			{
 				*(s + count) = rot13[i];
 				break;
@@ -24,4 +24,4 @@ char *rot13(char *s)
 		count++;
 	}
 	return (s);
-}
+i}
