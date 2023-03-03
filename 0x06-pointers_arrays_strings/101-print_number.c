@@ -11,7 +11,7 @@ void print_number(int n)
 
 	if (n < 0)
 	{
-		_putcha(45);
+		_putchar(45);
 		m = n * -1;
 	}
 	else
@@ -24,8 +24,7 @@ void print_number(int n)
 
 	while (d > 9)
 	{
-		:wq
-			d /= 10;
+		d /= 10;
 		count *= 10;
 	}
 
