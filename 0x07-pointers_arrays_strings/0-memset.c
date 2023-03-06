@@ -2,10 +2,6 @@
 
 /**
  * _memset - ironnou
- * @s: pointer to char params
- * @b: data to change
- * @: index
- * Return: *s
  */
 
 char *_memset(char *s, char b, unsined int n)
