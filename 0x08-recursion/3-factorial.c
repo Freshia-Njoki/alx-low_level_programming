@@ -3,7 +3,7 @@
 /**
  * factorial - factorial n
  * @n: integer arams
- * Retunr: recursion
+ * Return: recursion
  */
 
 int factorial(int n)
