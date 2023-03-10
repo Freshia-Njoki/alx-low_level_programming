@@ -4,7 +4,7 @@
  * main - multiplies two numbers
  * @argc: number of comand line arguments
  * @argv: array
- * Retun: 0 - success 
+ * Return: 0 - success 
  */
 int main(int argc, char *argv[])
 {
