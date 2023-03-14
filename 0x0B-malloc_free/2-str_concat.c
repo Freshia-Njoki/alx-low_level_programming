@@ -24,7 +24,7 @@ char *str_concat(char *s1, char *s2)
 	for (j = 0; s2[j] != '\0'; j++)
 		;
 
-	strout = malloc(sizeof(char  i + j + 1));
+	strout = malloc(sizeof(char) * (i + j + 1));
 
 	if (strout == NULL)
 	{
@@ -33,7 +33,11 @@ char *str_concat(char *s1, char *s2)
 	}
 
 	for (k = 0; k < i; k++)
-		strout[k] = s2[j];
+		strout[k] = s1[k];
+
+	limit = j;
+	for (j = 0; j <= limit; k++, j++)
+		strour[k] = s2[j];
 
 	return (strout);
 }
