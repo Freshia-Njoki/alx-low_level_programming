@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include "dog.h"
+
 /**
  * _copy  -   Make a copy of passed in argument
  * @src:      Data to make copy of
@@ -78,13 +79,6 @@ dog_t *new_dog(char *name, float age, char *owner)
 	}
 
 	(*snoopie).owner = new_owner;
+
+	return (snoopie);
 }
-
-
-
-
-
-
-
-
-
