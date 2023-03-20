@@ -69,7 +69,7 @@ dog_t *new_dog(char *name, float age, char *owner)
 
 	(*snoopie).age = age;
 
-	new_owner = _copy(owner);	
+	new_owner = _copy(owner);
 	if (new_owner == NULL)
 	{
 		free((*snoopie).name);
