@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The ReadME Project</title>
+    <link>https://github.com/readme</link>
+    <atom:link href="https://github.com/readme.rss" rel="self" type="application/rss+xml"/>
+    <image>
+      <title>The ReadME Project</title>
+      <url>https://github.githubassets.com/images/modules/site/social-cards/readme-project.jpg</url>
+      <link>https://github.com/readme</link>
+    </image>
+    <description>The ReadME Project amplifies the voices of the open source community: the maintainers, developers, and teams whose contributions move the world forward every day.</description>
+    <item>
+      <title>Formatters, linters, and compilers: Oh my!</title>
+      <link>https://github.com/readme/guides/formatters-linters-compilers</link>
+      <description>Discover the essentials of static analysis tools in JavaScript and TypeScript, and unlock the power of formatters, linters, and type checkers for improved code quality and error prevention.</description>
+      <pubDate>Tue, 9 May 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/guides/formatters-linters-compilers</guid>
+    </item>
+    <item>
+      <title>The case for using Rust in MLOps</title>
+      <link>https://github.com/readme/guides/rust-mlops</link>
+      <description>Rust’s performance, package management, and other features make it a strong alternative to Python for MLOps, especially used in conjunction with GitHub Copilot.</description>
+      <pubDate>Tue, 9 May 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/guides/rust-mlops</guid>
+    </item>
+    <item>
+      <title>Accelerate test-driven development with AI</title>
+      <link>https://github.com/readme/guides/github-copilot-automattic</link>
+      <description>Test-Driven Development (TDD) involves writing tests, then writing the code to satisfy those tests. The process gives developers faster feedback on the quality of the software design. GitHub Copilot helps write the tests and the code, further accelerating the entire process.</description>
+      <pubDate>Tue, 9 May 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/guides/github-copilot-automattic</guid>
+    </item>
+    <item>
+      <title>Harness the power of generative AI for software development</title>
+      <link>https://github.com/readme/guides/coding-generative-ai</link>
+      <description>Large language models and generative AI can boost developers’ productivity and efficiency, but it helps to understand prompt engineering. While AI can appear human, writing to it like a human can be counterproductive. Learn how to best craft your query.
+</description>
+      <pubDate>Tue, 9 May 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/guides/coding-generative-ai</guid>
+    </item>
+    <item>
+      <title> Coding accessibility: Disability as catalyst for creativity</title>
+      <link>https://github.com/readme/featured/disability-creativity</link>
+      <description>When faced with accessibility barriers, developer Paul Chiou gets creative, building custom hardware interfaces and innovative software solutions for himself and others. Read how Chiou works to increase access for all. </description>
+      <pubDate>Tue, 9 May 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/featured/disability-creativity</guid>
+    </item>
+    <item>
+      <title>How ‘open’ should your open source be?</title>
+      <link>https://github.com/readme/featured/how-open-is-open-source</link>
+      <description>Open source isn’t one size fits all. Some is open, some closed, and most is in-between. From Litestream to Lua to Prometheus and more, maintainers explain their reasons for where they lie on the spectrum from open to closed, and why there’s more to contributions than code.</description>
+      <pubDate>Tue, 9 May 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/featured/how-open-is-open-source</guid>
+    </item>
+    <item>
+      <title>Champion accessibility to unleash untapped potential</title>
+      <link>https://github.com/readme/stories/annalu-waller</link>
+      <description>Dr. Annalu Waller, rehabilitation engineer and Professor of Human Communication Technologies at Dundee University, shares her path to overcoming barriers and empowering others to reach their full potential.</description>
+      <pubDate>Tue, 9 May 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/stories/annalu-waller</guid>
+    </item>
+    <item>
+      <title>Safer GitHub administration through IssueOps</title>
+      <link>https://github.com/readme/guides/github-issueops-philips</link>
+      <description>How to use GitHub Actions to automatically promote and demote repository admins, just like using sudo to control permissions in Linux.</description>
+      <pubDate>Tue, 11 Apr 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/guides/github-issueops-philips</guid>
+    </item>
+    <item>
+      <title>Twitch: A game changer for developers</title>
+      <link>https://github.com/readme/guides/twitch-for-developers</link>
+      <description>Johanna Pirker says the gaming world has something to offer businesses, educators, and developers. Virtual worlds provide a sense of togetherness that traditional business software like Zoom doesn’t, and Pirker chooses Twitch for teaching and coding online, and more.</description>
+      <pubDate>Tue, 11 Apr 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/guides/twitch-for-developers</guid>
+    </item>
+    <item>
+      <title>Junior to senior: An action plan for engineering career success</title>
+      <link>https://github.com/readme/guides/engineering-career-success</link>
+      <description>A guide providing actionable tips on how to transition from a junior to senior software engineer. Learn the essential technical competencies and communication skills needed to succeed, including the importance of business domain comprehension and effective documentation.</description>
+      <pubDate>Tue, 11 Apr 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/guides/engineering-career-success</guid>
+    </item>
+    <item>
+      <title>Simplifying developer onboarding with a few clicks</title>
+      <link>https://github.com/readme/guides/github-codespaces-duolingo</link>
+      <description>Learn how Duolingo migrated to GitHub Codespaces, streamlining their software development process. Discover the benefits of remote development and how to securely grant access to private resources.</description>
+      <pubDate>Tue, 11 Apr 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/guides/github-codespaces-duolingo</guid>
+    </item>
+    <item>
+      <title>Open source is fueling the future of nuclear physics</title>
+      <link>https://github.com/readme/featured/nuclear-fusion-open-source</link>
+      <description>A look at the open source artificial intelligence (AI), machine learning (ML), and high performance computing (HPC) tools used in the nuclear fusion ignition breakthrough at Lawerence Livermore Labs.
+</description>
+      <pubDate>Tue, 11 Apr 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/featured/nuclear-fusion-open-source</guid>
+    </item>
+    <item>
+      <title>Putting the African open source community on the map</title>
+      <link>https://github.com/readme/stories/ruth-ikegah</link>
+      <description>Once indifferent about computers, Ruth Ikegah put in the time, patience, and work to become a force for change in open source, and is now connecting other Africans with the resources they need to succeed, too.</description>
+      <pubDate>Tue, 11 Apr 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/stories/ruth-ikegah</guid>
+    </item>
+    <item>
+      <title>How to put the plus in ‘staff+’ engineer </title>
+      <link>https://github.com/readme/guides/staff-engineers</link>
+      <description>Whether you’re already a staff+ engineer or you’re looking to advance, here’s how to be a force multiplier for your teams and organization</description>
+      <pubDate>Tue, 14 Mar 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/guides/staff-engineers</guid>
+    </item>
+    <item>
+      <title>Find edge case errors in your code base</title>
+      <link>https://github.com/readme/guides/hubspot-github-copilot</link>
+      <description>GitHub Copilot not only increases developer efficiency and reduces boilerplate code, it can help find edge case errors in your code base—just ask HubSpot software engineer Claudio Wunder.</description>
+      <pubDate>Tue, 14 Mar 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/guides/hubspot-github-copilot</guid>
+    </item>
+    <item>
+      <title>From gaming with your eyes to coding with AI: New frontiers for accessibility</title>
+      <link>https://github.com/readme/featured/open-source-accessibility</link>
+      <description>Open source offers developers with disabilities the flexibility needed to participate and collaborate. Their contributions and involvement in the research, design, and development of software are integral to making technology accessible to all. </description>
+      <pubDate>Tue, 14 Mar 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/featured/open-source-accessibility</guid>
+    </item>
+    <item>
+      <title>Invite the critics and keep learning</title>
+      <link>https://github.com/readme/stories/rohan-gupta</link>
+      <description>When Windows 11 debuted with limited access, @blueedgetechno created a *very* convincing clone. Hear why he has a female avatar, maintains a growth mindset, and more on The ReadME Project:</description>
+      <pubDate>Tue, 14 Mar 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/stories/rohan-gupta</guid>
+    </item>
+    <item>
+      <title>The modern web’s underrated powerhouse</title>
+      <link>https://github.com/readme/featured/css-future</link>
+      <description>CSS has come a long way, but it still doesn’t get the attention JavaScript does. @klintron explains why you might want to give CSS another look:</description>
+      <pubDate>Tue, 14 Feb 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/featured/css-future</guid>
+    </item>
+    <item>
+      <title>Out of the slums and into open source</title>
+      <link>https://github.com/readme/stories/santosh-yadav</link>
+      <description>From a slum in India to a Google Developer Expert in Germany, @SantoshYadavDev shares how he leveraged software development as a path out of poverty in The ReadME Project:</description>
+      <pubDate>Tue, 14 Feb 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/stories/santosh-yadav</guid>
+    </item>
+    <item>
+      <title>What’s in a name? Moving GitOps beyond buzzword</title>
+      <link>https://github.com/readme/featured/defining-gitops</link>
+      <description>Unlike many other technical portmanteaus, “GitOps” is worth defining, says @rwwmike, and here’s why:
+</description>
+      <pubDate>Tue, 17 Jan 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/featured/defining-gitops</guid>
+    </item>
+    <item>
+      <title>Raising the bar for open source standards</title>
+      <link>https://github.com/readme/stories/leonardo-javier-russo</link>
+      <description>After seeing first-hand how stifling inaccessibility is, Leonardo strives to create an open source world where everyone can seamlessly participate. He shares his full story on The ReadME Project:</description>
+      <pubDate>Tue, 17 Jan 2023 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/stories/leonardo-javier-russo</guid>
+    </item>
+    <item>
+      <title>What we can learn from vintage computing</title>
+      <link>https://github.com/readme/featured/vintage-computing</link>
+      <description>The “old ways” are actually a prime opportunity to learn, escape today’s exhausting digital environments, and get inspired</description>
+      <pubDate>Tue, 13 Dec 2022 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/featured/vintage-computing</guid>
+    </item>
+    <item>
+      <title>Building super fans through genuine human connections</title>
+      <link>https://github.com/readme/stories/jana-iris</link>
+      <description>She never considered tech as a potential career path, but @janaboruta leveraged her empathy to successfully build open source communities of super fans. Her full story, now on The ReadME Project: </description>
+      <pubDate>Tue, 13 Dec 2022 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/stories/jana-iris</guid>
+    </item>
+    <item>
+      <title>Marie Kondo your software stack with open source</title>
+      <link>https://github.com/readme/featured/open-source-minimalism</link>
+      <description>Minimalism in software development is not only a desirable design goal—but also a survival strategy. @rwwmike explains how to Marie Kondo your software stack:</description>
+      <pubDate>Tue, 15 Nov 2022 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/featured/open-source-minimalism</guid>
+    </item>
+    <item>
+      <title>The purest form of collaboration</title>
+      <link>https://github.com/readme/stories/avi-press</link>
+      <description>Fueled by the versatility of computer science, @avi_press learned by doing, then started a company to help clear the roadblocks he ran into. Get his full story on The ReadME Project:</description>
+      <pubDate>Tue, 15 Nov 2022 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/stories/avi-press</guid>
+    </item>
+    <item>
+      <title>Open source is democratizing video game development</title>
+      <link>https://github.com/readme/featured/open-source-democratizing-video-games</link>
+      <description>The democratization of open source game development, from Adobe Flash to game jams and beyond:
+</description>
+      <pubDate>Tue, 18 Oct 2022 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/featured/open-source-democratizing-video-games</guid>
+    </item>
+    <item>
+      <title>(Virtual) reality check</title>
+      <link>https://github.com/readme/stories/johanna-pirker</link>
+      <description>Growing up, @JoeyPrink didn’t know what computer science meant. Now she’s a TU Graz Grad and MIT alum, Forbes 30 Under 30 alum, and assistant professor prioritizing inclusive virtual spaces. Read more on The ReadME Project:</description>
+      <pubDate>Tue, 18 Oct 2022 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/stories/johanna-pirker</guid>
+    </item>
+    <item>
+      <title>Building the future of the command line</title>
+      <link>https://github.com/readme/featured/future-of-the-command-line</link>
+      <description>The command line has come a long way since its days as a blinking cursor on a blank screen. @klintron explain how open source is making it both more powerful and more user-friendly: </description>
+      <pubDate>Tue, 13 Sep 2022 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/featured/future-of-the-command-line</guid>
+    </item>
+    <item>
+      <title>Sometimes they say yes</title>
+      <link>https://github.com/readme/stories/aaron-francis</link>
+      <description>In the past 12 months, @aarondfrancis changed his life by bypassing fear and embracing risk. Now, he’s working his dream job @tuple. Get his full story on The ReadME Project: </description>
+      <pubDate>Tue, 13 Sep 2022 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/stories/aaron-francis</guid>
+    </item>
+    <item>
+      <title>Stewards of code, stewards of each other</title>
+      <link>https://github.com/readme/stories/kara-carrell</link>
+      <description>Supporting and sharing different perspectives and opinions is foundational to @KaraAJC, and imperative for a healthy and inclusive OSS community:</description>
+      <pubDate>Tue, 9 Aug 2022 02:00:00 +0000</pubDate>
+      <guid>https://github.com/readme/stories/kara-carrell</guid>
+    </item>
+  </channel>
+</rss>
